@@ -27,10 +27,10 @@ Alan Lee 20180611
 
 <body>
 
-<p>Github training project</p>
-<p>one</p>
-<p>two</p>
-<p>three</p>
+<p class="title">Github training project</p>
+<p class="one">one</p>
+<p class="two">two</p>
+<p class="three">three</p>
 
 </body>
 </html>
